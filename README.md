@@ -10,13 +10,13 @@ Projeto: Matemática Computacional Aplicada Arquivos: index.html, script.js, sty
 
 Estrutura a interface da aplicação em três partes principais: 
 
-➞Cabeçalho "(<header>)": Exibe o título e subtítulo do projeto com fundo azul. 
+➞Cabeçalho (header): Exibe o título e subtítulo do projeto com fundo azul. 
 
 ➞Navegação por abas  (nav class="tabs"): Três botões que alternam entre as seções. Cada botão chama openTab() passando o id da seção correspondente. O primeiro botão começa com a classe active. 
 
-➞Seções de conteúdo  (<section class="tab-content">): Cada seção segue o mesmo padrão — um card com formulário de entrada, um card de resumo de resultados e uma tabela analítica. Todas começam ocultas exceto #financiamento. Os ids dos campos (ex: fin-valor, jur-taxa) são usados pelo JavaScript para ler os valores digitados. 
+➞Seções de conteúdo  (section class="tab-content"): Cada seção segue o mesmo padrão — um card com formulário de entrada, um card de resumo de resultados e uma tabela analítica. Todas começam ocultas exceto #financiamento. Os ids dos campos (ex: fin-valor, jur-taxa) são usados pelo JavaScript para ler os valores digitados. 
 
-Rodapé (<footer>): Texto de copyright do projeto. 
+Rodapé (footer): Texto de copyright do projeto. 
 
 O arquivo script.js é carregado no final do <body> para garantir que todos os elementos existam antes de o JavaScript tentar acessá-los. 
 
