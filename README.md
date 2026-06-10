@@ -90,6 +90,6 @@ tr:nth-child(even): Aplica fundo cinza claro nas linhas pares, criando o efeito 
 
 .scroll-table: Limita a altura a 400px e ativa rolagem vertical quando há mais linhas do que o espaço comporta. 
 
-Botão 
+➞Botão 
 
 .btn: Azul escuro, largura total do card. Ao passar o mouse (:hover), o tom de azul muda levemente para dar feedback visual. 
