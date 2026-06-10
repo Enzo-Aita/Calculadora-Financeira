@@ -6,7 +6,7 @@ Projeto: Matemática Computacional Aplicada Arquivos: index.html, script.js, sty
 
  
 
-index.html 
+# index.html 
 
 Estrutura a interface da aplicação em três partes principais: 
 
@@ -22,7 +22,7 @@ O arquivo script.js é carregado no final do <body> para garantir que todos os e
 
  
 
-script.js 
+# script.js 
 
 Navegação por abas — openTab(tabId) 
 
@@ -58,7 +58,7 @@ i_mensal = (1 + i_anual)^(1/12) − 1
 
 Simula mês a mês o saldo acumulado aplicando rendimento e somando o aporte mensal. Exibe o valor final acumulado, o tempo em anos e meses e o total gerado em juros. 
 
-style.css 
+# style.css 
 
 Variáveis de tema (:root) 
 
