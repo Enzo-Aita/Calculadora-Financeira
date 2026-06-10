@@ -4,7 +4,7 @@ Documentação Técnica — Calculadora Financeira A3
 
 Projeto: Matemática Computacional Aplicada Arquivos: index.html, script.js, style.css 
 
-link doc: https://animaedu-my.sharepoint.com/:w:/r/personal/10725113352_ulife_com_br/Documents/Documentacao_Calculadora_A3.docx?d=wcf757187bb584466a93fc024e52feb89&csf=1&web=1&e=nuSZnG
+link doc: https://animaedu-my.sharepoint.com/:w:/g/personal/10725113352_ulife_com_br/IQCHcXXPWLtmRKk_wCTlL-uJATjS1uVdtK1qQw_GqDq-KR8?e=DgDNzs
 
 # index.html 
 
